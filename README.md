@@ -31,5 +31,5 @@
 
 ## 🔗 原始数据源
 
-- **接口地址**：
-  *(仅限陕西联通宽带内网设备访问，用于后续手动或定时提取最新频道数据)*
+- **接口地址**：`http://shanxiunicom.livehot.wasu.tv/weekhot_cs2/interfaces/liveChannel.do`
+  *(仅限陕西联通宽带内网设备访问，用于后续提取最新频道数据备份)*
